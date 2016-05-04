@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+/* Nav bar */
+.nav-bar span.material-icons {
+    font-size: 30px !important;
+    line-height: 1.5 !important;
+    vertical-align: middle;
+    color: #f48fb1;
+}
+
+.main-container {
+    padding: 20px 10%;
+}
+
+/* Diary */
+.diary-list-container {
+    left: 300px;
+}
+
+.diary-container {
+    margin-bottom: 20px;
+}
