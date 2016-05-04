@@ -1,0 +1,2 @@
+# pinkbook
+A public diary.
